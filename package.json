@@ -1,0 +1,17 @@
+{
+  "name": "tguserbot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": ".",
+  "author": "ablin",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "telegram": "^2.26.2"
+  }
+}
